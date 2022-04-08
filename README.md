@@ -1,3 +1,3 @@
 # dtMoney-React
-projeto dtMoney Com ReactJs
+projeto dtMoney Com ReactJs - TypeScript
 ### Rocketseat - Ignite
